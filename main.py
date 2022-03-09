@@ -1,16 +1,7 @@
-# This is a sample Python script.
-
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 
 
-# This is a sample Python script.
-
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 
 
-#######
 # First Milestone Project: Develop a Stock Ticker
 # dashboard that either allows the user to enter
 # a ticker symbol into an input box, or to select
